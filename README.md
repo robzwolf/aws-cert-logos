@@ -1,9 +1,9 @@
-# AWS Certification Logos
+# Cloud Certification Logos
 
-Images are copyright of Amazon Web Services, Inc. or its affiliates. I do not own the rights to these images.
+Images are copyright of their respective owners. I do not own the rights to these images.
 
 ## No Border
-Includes all AWS certification hexagons with the standard coloured border.
+Includes all certification hexagons with no white border.
 
 ## With White Border
-Includes all AWS certification hexagons with an additional white border around the hexagon.
+Includes all certification hexagons with an additional white border around the hexagon.
